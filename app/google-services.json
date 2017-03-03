@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "854188311983",
+    "firebase_url": "https://aplikasi-login-3098a.firebaseio.com",
+    "project_id": "aplikasi-login-3098a",
+    "storage_bucket": "aplikasi-login-3098a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854188311983:android:c581feafc729e924",
+        "android_client_info": {
+          "package_name": "ws.wolfsoft.shoeshappiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854188311983-9cchh3531lhgafv9iak0ke8hoh7vslru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ws.wolfsoft.shoeshappiness",
+            "certificate_hash": "AA70C15BF9511AE02BB074BC64B613E36F0B4A7F"
+          }
+        },
+        {
+          "client_id": "854188311983-aurfrvhm0mmqfond99i6a7opf28momav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjEF4Y2N2Xf2EKWaSRPcK5LUctQzG7gws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854188311983-aurfrvhm0mmqfond99i6a7opf28momav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
